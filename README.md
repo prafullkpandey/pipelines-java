@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/ADSPOC/Github_POC/_apis/build/status%2Fprafullkpandey.pipelines-java?branchName=master)](https://dev.azure.com/ADSPOC/Github_POC/_build/latest?definitionId=47&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
